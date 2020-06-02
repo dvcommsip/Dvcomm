@@ -1,0 +1,2 @@
+# Dvcomm
+It is Live Tracking Device for Car with sim card and also it provide speed alert. It shows Maintenance alert. And, it also tells your driving method (when you drive harsh and when you drive slow). It is connected with engine and it is a electric device to save and to know detailed about your car, in what position it is and where. It is also connected with android phone. You will get a detailed information about your car time-to-time.
